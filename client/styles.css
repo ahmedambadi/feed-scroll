@@ -1,0 +1,25 @@
+body{
+    
+    background-image: linear-gradient(to left, rgb(241, 138, 255), rgb(118, 59, 255));
+}
+
+#header{
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.post{
+    background-color: rgb(156, 207, 255);
+    text-align: center;
+    padding:1;
+    border: solid rgb(28, 0, 128);
+    margin-bottom: 10;
+    font-family: monospace;
+
+}
+
+.post:hover{
+    background-color: rgb(164, 237, 255);
+    border-color: rgb(0, 0, 0);
+}
